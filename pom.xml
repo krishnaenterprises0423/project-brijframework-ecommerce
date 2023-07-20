@@ -19,6 +19,9 @@
     <module>project-brijframework-accounts</module>
     <module>project-brijframework-application</module>
 	<module>project-brijframework-inventory</module>
+	<module>project-brijframework-finance</module>
+	<module>project-brijframework-production</module>
+	<module>project-brijframework-ordering</module>
 </modules>
 
   <properties>
